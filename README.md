@@ -8,7 +8,7 @@ Aplikasi ini adalah program berbasis *Command Line Interface* (CLI) yang ditulis
 
 Pada awalnya, proyek ini dipisah menjadi beberapa modul/file agar lebih rapi dan dihubungkan menggunakan `go.mod`. Berikut adalah tampilan struktur aslinya seperti yang terlihat pada gambar di bawah:
 
-![Struktur Folder](image_e0ab70.png)
+![Struktur Folder]
 
 Daftar file pada struktur asli:
 - `main.go`: Entry point program.
