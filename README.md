@@ -6,11 +6,8 @@ Aplikasi ini adalah program berbasis *Command Line Interface* (CLI) yang ditulis
 
 ## 🗂️ Struktur Proyek Asli
 
-Pada awalnya, proyek ini dipisah menjadi beberapa modul/file agar lebih rapi dan dihubungkan menggunakan `go.mod`. Berikut adalah tampilan struktur aslinya seperti yang terlihat pada gambar di bawah:
+Pada awalnya, proyek ini dipisah menjadi beberapa modul/file agar lebih rapi dan dihubungkan menggunakan `go.mod`. Berikut adalah tampilan struktur aslinya:
 
-![Struktur Folder]
-
-Daftar file pada struktur asli:
 - `main.go`: Entry point program.
 - `model.go`: Mendefinisikan tipe data (struct) dan variabel global.
 - `menu.go`: Menangani logika menu utama dan navigasi.
