@@ -58,13 +58,3 @@ Pada awalnya, proyek ini dipisah menjadi beberapa modul/file agar lebih rapi dan
    ```bash
    go run .
    ```
-
-## 👨‍💻 Data Dummy (Untuk Testing)
-
-Untuk mempermudah pengujian saat presentasi, aplikasi sudah terisi dengan data *dummy*:
-- **Kandidat**: 
-  - Prabowo Subianto (No. 1)
-  - Rafi Maulana (No. 2)
-  - Ilman Baruna (No. 3)
-  - Nicole Reeyn (No. 4)
-- **Pemilih**: Terdapat 6 Pemilih terdaftar dengan ID 101 - 106, di mana beberapa pemilih sudah di-*set* belum memberikan suara sehingga dapat langsung diuji pada menu Voting.
